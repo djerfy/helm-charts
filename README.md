@@ -1,5 +1,7 @@
 # 🐳 DJΞRFY Kubernetes Helm Charts
 
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/djerfy)](https://artifacthub.io/packages/search?repo=djerfy)
+
 This repository hosts the official **DJΞRFY Helm Charts** to deploy my custom products to [Kubernetes](https://kubernetes.io/)
 
 ## Install Helm
