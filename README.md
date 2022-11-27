@@ -1,6 +1,6 @@
 # 🐳 DJΞRFY Kubernetes Helm Charts
 
-This repository hosts the official **DJΞRFY Helm Charts** to deploy **DJΞRFY** products to [Kubernetes](https://kubernetes.io/)
+This repository hosts the official **DJΞRFY Helm Charts** to deploy my custom products to [Kubernetes](https://kubernetes.io/)
 
 ## Install Helm
 
