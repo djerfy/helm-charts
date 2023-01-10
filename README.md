@@ -1,4 +1,4 @@
-![logo-helm-kubernetes](.github/assets/logo-helm-kubernetes.png)
+![](https://raw.githubusercontent.com/djerfy/helm-charts/main/.github/assets/logo-helm-kubernetes.png)
 
 # 🐳 DJΞRFY Kubernetes Helm Charts
 
