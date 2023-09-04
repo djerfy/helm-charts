@@ -5,9 +5,9 @@ entries:
       category: Monitoring
     apiVersion: v2
     appVersion: 1.4.11
-    created: "2023-09-04T11:47:27.08556779Z"
+    created: "2023-09-04T11:53:49.63475328Z"
     description: Kubernetes monitoring for Zabbix with discovery objects
-    digest: 20c779fd1f1793c239b04f5ce54604f79c87bd6d5bb6b2883bdfe5a5ad809b04
+    digest: 936b98d52d58176058f54a71fe004eb60ebf8875d826fd53bf806f93d5531f09
     home: https://djerfy.github.io/helm-charts
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
     keywords:
@@ -237,4 +237,4 @@ entries:
     urls:
     - https://djerfy.github.io/helm-charts/zabbix-kubernetes-discovery-1.4.2.tgz
     version: 1.4.2
-generated: "2023-09-04T11:47:27.084599268Z"
+generated: "2023-09-04T11:53:49.633458476Z"
